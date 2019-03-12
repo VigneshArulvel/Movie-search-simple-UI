@@ -18,6 +18,39 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.submitButton {
+    position: absolute;
+    width: 90px;
+    margin-left: 760px;
+    margin-top: -28px;
+}
+.text {
+  margin-top: -288px;
+  margin-left: 315px;
+  width: 330px;
+}
+.textBox {
+  border: none;
+  background-color: transparent;
+  width: 500px;
+  height: 60px;
+  display: inline-block;
+  margin: auto 245px
+}
+.underLine{
+  border-bottom: 2px solid #040523;
+  display: flex;
+  margin: auto 245px;
+  width: 500px;
+}
+.image {
+  height: 305px;
+  width: 300px;
+}
+.content {
+  margin: auto 245px;
+  margin-top: 25px;
+}
 
 .App-link {
   color: #61dafb;
