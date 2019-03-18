@@ -29,13 +29,24 @@
   margin-left: 315px;
   width: 330px;
 }
+.noData {
+  font-size: 40px;
+  font-family: cursive;
+  margin-left: 121px;
+}
+.info {
+  font-size: 30px;
+  font-style: oblique;
+  font-family: inherit;
+}
 .textBox {
   border: none;
   background-color: transparent;
   width: 500px;
   height: 60px;
   display: inline-block;
-  margin: auto 245px
+  margin: auto 245px;
+  outline: none;
 }
 .underLine{
   border-bottom: 2px solid #040523;
